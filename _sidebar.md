@@ -1,4 +1,4 @@
-# LinksFoucs
+# LinksFoucs思维模型库
 
 - [🏠 首页](README.md)
 
